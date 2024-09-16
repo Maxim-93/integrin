@@ -1,0 +1,5 @@
+FORCEFIELD   OPLS_2005
+GRIDFILE   /sc/arion/work/epstem06/glide-dock_SP/no_MIDAS/glide-grid_no_MIDAS.zip
+LIGANDFILE /sc/arion/work/epstem06/glide-dock_SP/no_MIDAS/split_1.maegz
+POSTDOCK_NPOSE   1
+PRECISION   SP
